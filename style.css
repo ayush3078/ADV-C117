@@ -1,0 +1,18 @@
+body {
+    background-color: lime;
+}
+#ht {
+    background-color: bisque;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#kk {
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#hj {
+    
+    color: red;
+    font-weight: bolder;
+    font-family:cursive;
+}
